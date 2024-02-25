@@ -4,7 +4,8 @@ As a volunteer for the workshop, "Intellectual Property Rights" organized by Raj
 ## Usage
 1. Ensure you have Python installed on your system.
 2. Clone this repository to your local machine.
-   ```bash  git clone https://github.com/yabckhush/certificate-generator.git
+   ```bash
+   git clone https://github.com/yabckhush/certificate-generator.git
 3. Prepare a CSV file (names.csv) with a list of participant names.
 4. Edit the generate_certificates.ipynb script to customize the certificate template and output folder.
 5. Run the script to generate certificates.
