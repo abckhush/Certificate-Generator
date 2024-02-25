@@ -17,3 +17,6 @@ The certificate template (template.png) should be a PNG image file with placehol
 ## Requirements
 - Python 3.x
 - OpenCV (cv2) library
+
+## Limitations
+The program currently supports only one template and one font style and size. The program does not support batch printing of certificates.
